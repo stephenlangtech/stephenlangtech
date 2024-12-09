@@ -1,5 +1,6 @@
-<h1>Greetings, I'm Steve, an <a href="https://linkedin.com/in/stephen-l">IT Professional</a>☺</h1>
-
+<h1>Greetings, I'm Steve, an <a href="https://linkedin.com/in/stephen-l">IT Professional:😁
+ Here are some of my latest projects!
+ 
  - <h2>💻 Networking Projects:</h2>
  
 - <b>Networks in Microsoft Azure</b>
