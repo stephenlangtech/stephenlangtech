@@ -2,7 +2,7 @@
 
  - <h2>👨‍💻 IT Projects:</h2>
  
-- <b>Microsoft Azure</b>
+- <b>Networks in Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/stephenlangtech/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/stephenlangtech/azure-network-protocols)
  
