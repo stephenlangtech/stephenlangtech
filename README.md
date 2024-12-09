@@ -1,7 +1,7 @@
-<h1>Greetings, I'm Steve, an <a href="https://linkedin.com/in/stephen-l">IT Professional:😁
- Here are some of my latest projects!
+<h1>Greetings, I'm Stephen, an <a href="https://linkedin.com/in/stephen-l">IT Professional👍</h1>
+ Here are some of my latest projects. Feel free to explore!
  
- - <h2>💻 Networking Projects:</h2>
+ - <h2>📶💻 Networking Projects:</h2>
  
 - <b>Networks in Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/stephenlangtech/configure-ad)
