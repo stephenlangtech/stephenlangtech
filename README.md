@@ -1,6 +1,6 @@
 <h1>Greetings, I'm Steve, an <a href="https://linkedin.com/in/stephen-l">IT Professional</a>☺</h1>
 
- - <h2>👨‍💻 IT Projects:</h2>
+ - <h2>💻 Networking Projects:</h2>
  
 - <b>Networks in Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/stephenlangtech/configure-ad)
