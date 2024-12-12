@@ -4,8 +4,8 @@
  - <h2>📶💻 Networking Projects:</h2>
  
 - <b>Networks in Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/stephenlangtech/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/stephenlangtech/azure-network-protocols)
+  - [Configuring Active Directory within Azure VMs](https://github.com/stephenlangtech/configure-ad)
  
 - <b>osTicket (Help Desk Ticket System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/stephenlangtech/osticket-prereqs)
