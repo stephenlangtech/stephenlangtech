@@ -1,7 +1,7 @@
 <h1>Greetings, I'm Stephen, an <a href="https://linkedin.com/in/stephen-l">IT Professional👍</h1>
  Here are some of my latest projects. Feel free to explore!
  
- - <h2>📶💻 Networking Projects:</h2>
+ - <h2>📶💻 Networking Projects: 💻☁️</h2>
  
 - <b>Networks in Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/stephenlangtech/azure-network-protocols)
