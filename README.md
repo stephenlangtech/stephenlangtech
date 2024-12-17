@@ -14,7 +14,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/stephenlangtech/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/stephenlangtech/ticket-lifecycle)
 
-<h2>Stay connected:</h2>
+<h2>Stay connected📱:</h2>
 
 [<img align="left" alt="LinkedIn" width="64px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" />][linkedin]
 
