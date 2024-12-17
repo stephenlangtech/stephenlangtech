@@ -16,7 +16,7 @@
 
 <h2>Stay connected:</h2>
 
-[<img align="left" alt="stephen-l | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="64px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" />][linkedin]
 
 
-[linkedin]: https://linkedin.com/in/stephen-l
+[linkedin]: www.linkedin.com/in/stephen-l-576983247/
