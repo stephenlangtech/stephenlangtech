@@ -15,7 +15,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/stephenlangtech/ticket-lifecycle)
 
 - <b>Virtual Private Network</b>
-  - [VPN Setup in Virtual Machine ](https://github.com/joeljjoseph1998/Setting-UP-A-VPN)
+  - [VPN Setup in a Virtual Machine ](https://github.com/stephenlangtech/Setting-UP-A-VPN)
 
 <h2>Stay connected📱:</h2>
 
