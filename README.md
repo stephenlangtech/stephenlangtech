@@ -9,10 +9,13 @@
   - [Network File Shares and Permissions](https://github.com/stephenlangtech/Network-File-Shares-and-Permissions)
   - [Building Intuition for DNS](https://github.com/stephenlangtech/Building-Intuition-for-DNS)
  
-- <b>osTicket (Help Desk Ticket System)</b>
+- <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/stephenlangtech/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/stephenlangtech/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/stephenlangtech/ticket-lifecycle)
+
+- <b>Virtual Private Network</b>
+  - [VPN Setup in Virtual Machine ](https://github.com/joeljjoseph1998/Setting-UP-A-VPN)
 
 <h2>Stay connected📱:</h2>
 
