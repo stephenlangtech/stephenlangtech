@@ -22,4 +22,4 @@
 [<img align="left" alt="LinkedIn" width="64px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" />][linkedin]
 
 
-[linkedin]: https://www.linkedin.com/in/stephen-langtech-576983247/
+[linkedin]: https://www.linkedin.com/in/stephen-langley-576983247/
