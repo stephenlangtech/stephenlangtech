@@ -17,6 +17,9 @@
 - <b>Virtual Private Network</b>
   - [VPN Setup in a Virtual Machine ](https://github.com/stephenlangtech/Setting-UP-A-VPN)
 
+- <b>Common Fixes and Troubleshooting Guides</b>
+  - [Fixes for Common Printer Issues ](https://github.com/stephenlangtech/common-printer-fixes)
+  
 <h2>Stay connected📱:</h2>
 
 [<img align="left" alt="LinkedIn" width="64px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" />][linkedin]
