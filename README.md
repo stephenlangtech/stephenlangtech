@@ -1,4 +1,4 @@
-<h1>Greetings, I'm Stephen, an <a href="https://linkedin.com/in/stephen-l">IT Specialist🌐</h1>
+<h1>Welcome, I'm Stephen, an <a href="https://linkedin.com/in/stephen-l">IT Specialist🌐</h1>
  Here are some of my latest projects. Feel free to explore!
  
  - <h2>☁️💻 Cloud/Networking Projects: 💻📶</h2>
