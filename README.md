@@ -21,7 +21,8 @@
  
 - <b>Common Fixes and Troubleshooting Guides</b>
   - [Fixes for Common Printer Issues ](https://github.com/stephenlangtech/common-printer-fixes)
-  
+  - [Fixes for Common Windows Errors ]
+
 <h2>Stay connected📱:</h2>
 
 [<img align="left" alt="LinkedIn" width="64px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" />][linkedin]
