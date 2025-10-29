@@ -21,7 +21,7 @@
  
 - <b>Common Fixes and Troubleshooting Guides</b>
   - [Fixes for Common Printer Issues ](https://github.com/stephenlangtech/common-printer-fixes)
-  - [Fixes for Common Windows Errors ]
+  - [Fixes for Common Windows Errors ](https://github.com/stephenlangtech/windows-error-fix-guide) 
 
 <h2>Stay connected📱:</h2>
 
