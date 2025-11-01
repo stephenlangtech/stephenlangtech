@@ -22,7 +22,8 @@
 - <b>Common Fixes and Troubleshooting Guides</b>
   - [Fixes for Common Printer Issues ](https://github.com/stephenlangtech/common-printer-fixes)
   - [Fixes for Common Windows Errors ](https://github.com/stephenlangtech/windows-error-fix-guide)
-  - [Windows Cleanup Utility Tool ](https://github.com/stephenlangtech/windows-cleanup-utility) 
+  - [Windows Cleanup Utility Tool ](https://github.com/stephenlangtech/windows-cleanup-utility)
+  - [IP Configuration Reset Tool](https://github.com/stephenlangtech/ip-configuration-reset-tool) 
 
 <h2>Stay connected📱:</h2>
 
