@@ -1,5 +1,16 @@
 <h1>Welcome, I'm Stephen, an <a href="https://linkedin.com/in/stephen-l">IT Specialist🌐</h1>
  Here are some of my latest projects. Feel free to explore!
+
+ - <h2>🔐 Active Directory & Group Policy Projects: 🔐</h2>
+ 
+- <b>Security Policies and Preferences</b>
+  - [Domain Password Policy Configuration](https://github.com/stephenlangtech/osticket-prereqs)
+  - [Fine-Grained Password Policy (FGPP)](https://github.com/stephenlangtech/osticket-prereqs)
+  - [Account Lockout Policy Configuration](https://github.com/stephenlangtech/ticket-lifecycle)
+  - [Control Panel Access Restriction Policy Configuration](https://github.com/stephenlangtech/ticket-lifecycle)
+  - [Drive Mapping with Group Policy](https://github.com/stephenlangtech/ticket-lifecycle)
+
+ 
  
  - <h2>☁️💻 Cloud/Networking Projects: 💻📶</h2>
  
