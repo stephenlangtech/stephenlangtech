@@ -6,7 +6,7 @@
 - <b>Security Policies and Preferences</b>
   - [Domain Password Policy Configuration](https://github.com/stephenlangtech/implementing-domain-password-policy)
   - [Fine-Grained Password Policy (FGPP)](https://github.com/stephenlangtech/implementing-fine-grained-password-policy)
-  - [Account Lockout Policy Configuration](https://github.com/stephenlangtech/ticket-lifecycle)
+  - [Account Lockout Policy Configuration](https://github.com/stephenlangtech/implementing-account-lockout-policy)
   - [Control Panel Access Restriction Policy Configuration](https://github.com/stephenlangtech/ticket-lifecycle)
   - [Drive Mapping with Group Policy](https://github.com/stephenlangtech/ticket-lifecycle)
 
