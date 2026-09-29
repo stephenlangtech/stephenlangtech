@@ -28,11 +28,9 @@
 - <b>Virtual Private Network</b>
   - [VPN Setup in a Virtual Machine ](https://github.com/stephenlangtech/Setting-UP-A-VPN)
 
-- <h2>⚙️🔧 Technical Troubleshooting and Tool Projects: 🔧⚙️</h2>
+- <h2>⚙️🔧 Technical Tool Projects: 🔧⚙️</h2>
  
-- <b>Common Fixes and Troubleshooting Guides</b>
-  - [Fixes for Common Printer Issues ](https://github.com/stephenlangtech/common-printer-fixes)
-  - [Fixes for Common Windows Errors ](https://github.com/stephenlangtech/windows-error-fix-guide)
+- <b>Troubleshooting Tools</b>
   - [Windows Cleanup Utility Tool ](https://github.com/stephenlangtech/windows-cleanup-utility)
   - [IP Configuration Reset Tool](https://github.com/stephenlangtech/ip-configuration-reset-tool)  
   - [Device Inventory Tool](https://github.com/stephenlangtech/device-inventory-tool)
